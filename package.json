@@ -1,0 +1,15 @@
+{
+  "name": "express-zeet",
+  "version": "1.0.0",
+  "description": "Evaluate zeet.co deployement",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "keywords": [],
+  "author": "Thomas G. aka Drozerah <drozerah@gmail.com> (https://github.com/Drozerah)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
